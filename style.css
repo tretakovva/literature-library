@@ -38,3 +38,14 @@ nav a:hover {
     border-radius: 10px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
 }
+.text-overlay {
+    font-size: 100px; /* Размер текста */
+    font-weight: bold; /* Жирный шрифт */
+    text-transform: uppercase; /* Буквы заглавные */
+    background: url('images/90s(1).jpeg') center/cover; /* Фон для текста */
+    -webkit-background-clip: text; /* Обрезка фона по тексту */
+    color: transparent; /* Делаем сам текст прозрачным */
+    display: inline-block;
+}
+
+}
