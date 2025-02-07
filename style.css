@@ -42,10 +42,10 @@ nav a:hover {
     font-size: 100px; /* Размер текста */
     font-weight: bold; /* Жирный шрифт */
     text-transform: uppercase; /* Буквы заглавные */
-    background: url('images/90s(1).jpeg') center/cover; /* Фон для текста */
+    background: url('images/90s.jpeg') center/cover; /* Фон для текста */
     -webkit-background-clip: text; /* Обрезка фона по тексту */
     color: transparent; /* Делаем сам текст прозрачным */
     display: inline-block;
 }
 
-}
+
